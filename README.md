@@ -9,4 +9,5 @@
 
 3. External Circuit
   - Model parking lot implementation
+  
   ![External Circuit](./Circuit.png)
