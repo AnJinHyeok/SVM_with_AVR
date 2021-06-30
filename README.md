@@ -9,4 +9,4 @@
 
 3. External Circuit
   - Model parking lot implementation
-  - ![External Circuit](https://github.com/AnJinHyeok/SVM_with_AVR/Circuit.png)
+  - ![External Circuit](./Circuit.png)
